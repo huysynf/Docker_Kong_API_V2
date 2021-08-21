@@ -1,3 +1,6 @@
-# kong-api-gateway
+### KONG API GATEWAY
 
-add kong api gate way
+##### Run services
+```bash
+bash start.sh
+```
